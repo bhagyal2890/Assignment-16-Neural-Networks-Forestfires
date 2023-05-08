@@ -1,0 +1,3 @@
+# Assignment-16-Neural-Networks-Forestfires
+
+PREDICT THE BURNED AREA OF FOREST FIRES WITH NEURAL NETWORKS
